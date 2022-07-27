@@ -60056,7 +60056,7 @@ A.Ew.prototype={
 E(a,b){var s,r,q,p,o=null,n="Montserrat",m=b.H(t.w).f.a,l=m.b,k=A.pJ(0,A.FF(new A.eJ(A.eL("assets/photos/danyial_image.jpeg",o,m.a<1200?l*0.75:l*0.85),B.aD,B.b_,B.k,o),0.9),o,o,o,0,o,o),j=$.aX,i=t.p,h=A.co(A.a([A.b3("WELCOME TO MY PORTFOLIO! ",$.oa.hG(n),o,o),new A.eJ(A.eL("assets/hi.gif",o,$.aX*12*0.77+12),B.cq,B.b_,B.k,o)],i),B.p,B.aH),g=$.fy
 g.toString
 s=A.b3("Muhammad",$.Qr.Gk(n,B.bS),o,o)
-r=A.b3("Hamza",$.abf.Gh(1),o,o)
+r=A.b3("Danyial",$.abf.Gh(1),o,o)
 q=A.co(A.a([A.mh(B.f1,$.ce.a,o),A.abd(A.a([A.l9(" Flutter Developer",B.ag,$.eF),A.l9(" UI/UX Enthusiast",B.ag,$.eF),A.l9(" A friend :)",B.ag,$.eF)],t.u6),!0,!1)],i),B.p,B.t)
 p=$.a1Q
 p.toString
